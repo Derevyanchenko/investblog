@@ -4020,7 +4020,7 @@ h6 {
 
  .header__banner {
    height: 400px;
-   background: url(https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/11/2016/11/Blog_title_image.jpg) no-repeat center;
+   background: url(../img/banner/banner.jpg) no-repeat center;
    background-size: cover;
  }
 
