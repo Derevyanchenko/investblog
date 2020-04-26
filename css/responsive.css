@@ -97,7 +97,8 @@
         padding-right: 15px;
     }
     .nav{
-        padding: 0px 0px;
+		padding: 0px 0px;
+		padding-top: 20px;
     }
 	.header_area + section, .header_area + row, .header_area + div {
 		margin-top: 0;
@@ -364,6 +365,12 @@
 		height: 250px;
 	}
 
+	.header_area .navbar .nav .nav-item .nav-link {
+		font-size: 14px;
+		line-height: 28px;
+		margin-bottom: 15px;
+	}
+
 }
 
 @media (max-width:480px){
@@ -475,6 +482,10 @@
 
 	.footer_copyright {
 		text-align: left;
+	}
+
+	.main_menu .navbar .navbar-brand img {
+		width: 85%;
 	}
 
 }
